@@ -3,4 +3,4 @@ services:
     searx:
         image: wonderfall/searx
         ports:
-            - "5428:80"
+            - "8888:8888"
